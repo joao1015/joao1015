@@ -20,7 +20,9 @@ No meu GitHub, compartilho projetos de back-end, front-end e integração de dis
 ### 🛠 Tech Stack
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js" width="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Java_logo_icon.png" alt="Java" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" alt="C#" width="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Arduino_logo.svg" alt="Arduino" width="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_icon.svg" alt="Docker" width="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/HTML5_Logo.svg" alt="HTML5" width="50" />
@@ -28,7 +30,8 @@ No meu GitHub, compartilho projetos de back-end, front-end e integração de dis
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Raspberry_Pi_Logo.svg" alt="Raspberry Pi" width="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/28/MQTT_Logo.svg" alt="MQTT" width="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Git_logo.svg" alt="Git" width="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Aws_logo.svg" alt="AWS" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="Azure" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" alt="Oracle" width="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Django_logo.svg" alt="Django" width="50" />
 </div>
 
