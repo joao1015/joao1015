@@ -23,7 +23,7 @@
 ## 🍽️ Meus Projetos sendo devorados pelo Come-Come 👾
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gauravghongde/pacman-progress-bar/master/assets/pacman-loader.svg" width="300" alt="Pac-Man Animation" />
+  <img src="assets/pacman.svg" width="300" alt="Pac-Man Animation" />
 </p>
 
 <p align="center">
@@ -80,10 +80,10 @@
 ## 🌐 Onde me encontrar
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/joao-paulo-moreira-dos-santos-b976b5164/" target="_blank">
+  <a href="https://linkedin.com/in/SEU_USUARIO" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="moreira.joaopaulo1993@gmail.com@gmail.com">
+  <a href="mailto:SEUEMAIL@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://SEUSITE.com" target="_blank">
