@@ -1,8 +1,4 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=524&lines=Desenvolvedor+Full-Stack+%7C+Especialista+em+IoT+%7C+Inovação+Tecnológica+🚀" alt="Typing SVG">
-  </a>
-</div>
+
 
 <img align="center" alt="Banner Tech" src="https://media.giphy.com/media/l0HlUeq66X6d4UlXK/giphy.gif" width="100%">
 
