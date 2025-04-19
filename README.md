@@ -23,7 +23,7 @@
 ## 🍽️ Meus Projetos sendo devorados pelo Come-Come 👾
 
 <p align="center">
-  <img src="assets/pacman.svg" width="300" alt="Pac-Man Animation" />
+  <img src="https://raw.githubusercontent.com/joaopaulo/joaopaulo/output/pacman-contribution-graph.svg" width="300" alt="Pac-Man Contribution Graph" />
 </p>
 
 <p align="center">
@@ -71,8 +71,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao1015&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao1015&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopaulo&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulo&layout=compact&theme=tokyonight" />
 </div>
 
 ---
@@ -80,13 +80,13 @@
 ## 🌐 Onde me encontrar
 
 <div align="center">
-  <a href="https://linkedin.com/in/SEU_USUARIO" target="_blank">
+  <a href="https://linkedin.com/in/joaopaulo" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:SEUEMAIL@gmail.com">
+  <a href="mailto:joaopaulo@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://SEUSITE.com" target="_blank">
+  <a href="https://joaopaulo.dev" target="_blank">
     <img src="https://img.shields.io/badge/-Portfólio-000?style=for-the-badge&logo=vercel" />
   </a>
 </div>
@@ -94,9 +94,9 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO_AQUI&style=flat-square&color=38BDF8" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=joaopaulo&style=flat-square&color=38BDF8" alt="profile views"/>
 </p>
 
 ---
 
-💬 *Sempre aberto para conexões, ideias e novos desafios.*
+💬 *Sempre aberto para conexões, ideias e novos desafios.* 🚀
