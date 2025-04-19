@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=524&lines=Eu+Sou+Jo%C3%A3o+Paulo+Moreira+dos+Santos%2" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=524&lines=Eu+Sou+Jo%C3%A3o+Paulo+Moreira+dos+Santos" alt="Typing SVG">
   </a>
 </div>
 
@@ -19,20 +19,29 @@ No meu GitHub, compartilho projetos de back-end, front-end e integração de dis
 
 ### 🛠 Tech Stack
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js" width="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Java_logo_icon.png" alt="Java" width="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" alt="C#" width="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Arduino_logo.svg" alt="Arduino" width="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_icon.svg" alt="Docker" width="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/HTML5_Logo.svg" alt="HTML5" width="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Python_logo.svg" alt="Python" width="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Raspberry_Pi_Logo.svg" alt="Raspberry Pi" width="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/28/MQTT_Logo.svg" alt="MQTT" width="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Git_logo.svg" alt="Git" width="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="Azure" width="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" alt="Oracle" width="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Django_logo.svg" alt="Django" width="50" />
+  <!-- Tecnologias Frontend -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  
+  <!-- Linguagens de Programação -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  
+  <!-- IoT e Embarcados -->
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT" />
+  
+  <!-- DevOps e Cloud -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+  
+  <!-- Outros -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
 </div>
 
 #
@@ -55,8 +64,8 @@ No meu GitHub, compartilho projetos de back-end, front-end e integração de dis
 #
 
 ### 🌐 Conecte-se Comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00FF00)](https://www.linkedin.com/in/joao-paulo-moreira/)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=00FF00)](https://github.com/joao1015)
-[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=00FF00)](mailto:moreira.joaopaulo1993@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-paulo-moreira/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joao1015)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moreira.joaopaulo1993@gmail.com)
 
 📌 **Curiosidade**: Apaixonado por resolver problemas complexos com café ☕ e placas de circuito!
