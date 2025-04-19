@@ -10,7 +10,11 @@
 
 ### 👨💻 Sobre Mim
 <p align="center">
-Engenheiro Eletrônico e Analista de Sistemas com 12 anos de experiência em desenvolvimento full-stack e sistemas embarcados. Especialista em integrar hardware e software para soluções ferroviárias e IoT. Atualmente finalizando <strong>Análise e Desenvolvimento de Sistemas na FIAP</strong> com foco em IA e automação industrial.
+ Desenvolvedor Full-Stack | Eletronica | Mecatronica
+
+Com experiência em Java, Next.js, C#, eletrônica e comunicação serial, trabalho no desenvolvimento de soluções inovadoras para sistemas embarcados e IoT. Atualmente, estou finalizando minha graduação em Análise e Desenvolvimento de Sistemas na FIAP, com foco em inteligência artificial e automação industrial.
+
+No meu GitHub, compartilho projetos de back-end, front-end e integração de dispositivos, criando aplicações escaláveis e sistemas embarcados eficientes
 </p>
 
 #
@@ -31,8 +35,8 @@ Engenheiro Eletrônico e Analista de Sistemas com 12 anos de experiência em des
 ### 🏆 Destaques Profissionais
 - 🥉 **3º Lugar NEXT FIAP 2024**: Sistema de monitoramento preditivo para trens usando IA.
 - 🥈 **Melhores do Ano CCR 2023**: Porta de plataforma automatizada para testes ferroviários.
-- 🚄 **Sistemas CBTC**: Desenvolvimento de soluções de sinalização para ViaQuatro (2021-2023).
-- 🔧 **Manutenção Especializada**: Reparos em inversores de potência e climatização de trens.
+- - 🥈 **Melhores do Ano CCR 2024**: Reparo de sistemas CBTC.
+
 
 #
 
