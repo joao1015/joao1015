@@ -23,7 +23,7 @@
 ## 🍽️ Meus Projetos sendo devorados pelo Come-Come 👾
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/joaopaulo/joaopaulo/output/pacman-contribution-graph.svg" width="300" alt="Pac-Man Contribution Graph" />
+  <img src="assets/pacman.svg" width="300" alt="Pac-Man Animation" />
 </p>
 
 <p align="center">
@@ -71,8 +71,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopaulo&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulo&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao1015&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao1015&layout=compact&theme=tokyonight" />
 </div>
 
 ---
@@ -80,13 +80,13 @@
 ## 🌐 Onde me encontrar
 
 <div align="center">
-  <a href="https://linkedin.com/in/joaopaulo" target="_blank">
+  <a href="https://linkedin.com/in/SEU_USUARIO" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:joaopaulo@gmail.com">
+  <a href="mailto:SEUEMAIL@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://joaopaulo.dev" target="_blank">
+  <a href="https://SEUSITE.com" target="_blank">
     <img src="https://img.shields.io/badge/-Portfólio-000?style=for-the-badge&logo=vercel" />
   </a>
 </div>
@@ -94,9 +94,21 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joaopaulo&style=flat-square&color=38BDF8" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO_AQUI&style=flat-square&color=38BDF8" alt="profile views"/>
 </p>
 
 ---
 
-💬 *Sempre aberto para conexões, ideias e novos desafios.* 🚀
+💬 *Sempre aberto para conexões, ideias e novos desafios.*
+
+---
+
+## 🎮 Pac-Man GitHub Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joao1015/joao1015/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joao1015/joao1015/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/joao1015/joao1015/output/pacman-contribution-graph.svg">
+</picture>
+
+_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
