@@ -1,6 +1,6 @@
 
 
-<img align="center" alt="Banner Tech" src="https://media.giphy.com/media/l0HlUeq66X6d4UlXK/giphy.gif" width="100%">
+
 
 #
 
