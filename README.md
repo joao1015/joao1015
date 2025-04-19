@@ -4,17 +4,15 @@
   </a>
 </div>
 
-
-
 #
 
 ### 👨💻 Sobre Mim
 <p align="center">
- Desenvolvedor Full-Stack | Eletronica | Mecatronica
+ Desenvolvedor Full-Stack | Eletrônica | Mecatrônica
 
 Com experiência em Java, Next.js, C#, eletrônica e comunicação serial, trabalho no desenvolvimento de soluções inovadoras para sistemas embarcados e IoT. Atualmente, estou finalizando minha graduação em Análise e Desenvolvimento de Sistemas na FIAP, com foco em inteligência artificial e automação industrial.
 
-No meu GitHub, compartilho projetos de back-end, front-end e integração de dispositivos, criando aplicações escaláveis e sistemas embarcados eficientes
+No meu GitHub, compartilho projetos de back-end, front-end e integração de dispositivos, criando aplicações escaláveis e sistemas embarcados eficientes.
 </p>
 
 #
@@ -24,10 +22,9 @@ No meu GitHub, compartilho projetos de back-end, front-end e integração de dis
   
 | **Front-End**      | **Back-End**       | **IoT & Embarcados**  | **DevOps**          |
 |---------------------|---------------------|-----------------------|---------------------|
-| React.js / Next.js  | Java Spring Boot    | C++ (Arduino/ESP32)   | Docker             |
-| HTML5 / CSS3        | Node.js             | Python (Raspberry Pi) | Git / GitHub Actions|
-| JavaScript (ES6+)   | Python (Django)     | Protocolos MQTT/Modbus| AWS EC2            |
-  
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="30" /> React.js / Next.js  | <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Java_logo_icon.png" alt="Java" width="30" /> Java Spring Boot    | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Arduino_logo.svg" alt="Arduino" width="30" /> C++ (Arduino/ESP32)   | <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_icon.svg" alt="Docker" width="30" /> Docker             |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/HTML5_Logo.svg" alt="HTML5" width="30" /> HTML5 / CSS3        | <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Python_logo.svg" alt="Python" width="30" /> Node.js             | <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Raspberry_Pi_Logo.svg" alt="Raspberry Pi" width="30" /> Python (Raspberry Pi) | <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Aws_logo.svg" alt="AWS" width="30" /> AWS EC2            |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/JavaScript-logo.png" alt="JavaScript" width="30" /> JavaScript (ES6+)   | <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Django_logo.svg" alt="Django" width="30" /> Python (Django)     | <img src="https://upload.wikimedia.org/wikipedia/commons/2/28/MQTT_Logo.svg" alt="MQTT" width="30" /> Protocolos MQTT/Modbus| <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Git_logo.svg" alt="Git" width="30" /> Git / GitHub Actions|
 </div>
 
 #
@@ -35,8 +32,7 @@ No meu GitHub, compartilho projetos de back-end, front-end e integração de dis
 ### 🏆 Destaques Profissionais
 - 🥉 **3º Lugar NEXT FIAP 2024**: Sistema de monitoramento preditivo para trens usando IA.
 - 🥈 **Melhores do Ano CCR 2023**: Porta de plataforma automatizada para testes ferroviários.
-- - 🥈 **Melhores do Ano CCR 2024**: Reparo de sistemas CBTC.
-
+- 🥈 **Melhores do Ano CCR 2024**: Reparo de sistemas CBTC.
 
 #
 
@@ -57,4 +53,4 @@ No meu GitHub, compartilho projetos de back-end, front-end e integração de dis
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=00FF00)](https://github.com/joao1015)
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=00FF00)](mailto:moreira.joaopaulo1993@gmail.com)
 
-📌 **Curiosidade**: Apaixonado por resolver problemas complexos com café ☕ e placas de circuito! 
+📌 **Curiosidade**: Apaixonado por resolver problemas complexos com café ☕ e placas de circuito!
