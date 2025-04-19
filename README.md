@@ -1,114 +1,65 @@
-<h1 align="center">👋 Olá, eu sou o João Paulo</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Dev+em+evolução+🚀;Técnico+em+Eletrônica+💡;Projetos+com+IA%2C+IoT+e+dados+📊;Tecnologia+%2B+Paixão+%3D+Inovação" alt="Typing SVG" />
-</p>
-
 <div align="center">
-  <img src="https://github.com/ryo-ma/github-profile-trophy/raw/master/images/github-profile-trophy-dark.svg" alt="Trophies" />
-</div>
-
----
-
-## 🧑‍💻 Sobre mim
-
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-- 🔧 Técnico com mais de 12 anos de experiência, 6 deles no setor ferroviário  
-- 🧠 Curioso por Inteligência Artificial, IoT e automações com Python, Node-RED, Arduino e mais  
-- 🏆 Participações e prêmios em projetos de tecnologia e inovação  
-- 💡 Acredito que aprender é um processo contínuo
-
----
-
-## 🍽️ Meus Projetos sendo devorados pelo Come-Come 👾
-
-<p align="center">
-  <img src="assets/pacman.svg" width="300" alt="Pac-Man Animation" />
-</p>
-
-<p align="center">
-  🟢 AutoCarePlus &nbsp; • &nbsp; 🔵 Jiga RS485 &nbsp; • &nbsp; 🟣 Chat Diagnóstico &nbsp; • &nbsp; 🔴 Mapa Air Quality
-</p>
-
----
-
-## 🚀 Tecnologias que estou explorando
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
-![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)
-![Tailwind](https://img.shields.io/badge/-Tailwind-000?style=for-the-badge&logo=tailwind-css)
-![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js)
-![Arduino](https://img.shields.io/badge/-Arduino-000?style=for-the-badge&logo=arduino)
-![Oracle](https://img.shields.io/badge/-Oracle-000?style=for-the-badge&logo=oracle)
-![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
-
-</div>
-
----
-
-## 💼 Projetos em andamento
-
-🛠 **AutoCarePlus**  
-→ Diagnóstico de falhas veiculares com IA, Watson e backend em Python
-
-📟 **Jiga RS485**  
-→ Simulação de intercomunicadores para testes ferroviários
-
-📈 **Monitoramento Inteligente**  
-→ Arduino + Node-RED + ML para manutenção preditiva
-
-🧠 **Chat Diagnóstico**  
-→ Bot treinado para entender falhas de veículos e gerar orçamentos automáticos
-
-📍 **Mapa Air Quality**  
-→ Localização em tempo real + qualidade do ar via API e frontend interativo
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao1015&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao1015&layout=compact&theme=tokyonight" />
-</div>
-
----
-
-## 🌐 Onde me encontrar
-
-<div align="center">
-  <a href="https://linkedin.com/in/SEU_USUARIO" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:SEUEMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://SEUSITE.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfólio-000?style=for-the-badge&logo=vercel" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
 </div>
 
----
+<img align="center" alt="Header gif" src="./src/header-gif.gif">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joao1015&style=flat-square&color=38BDF8" alt="profile views"/>
-</p>
+#
 
----
+<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Faculdade de Engenharia de Sorocaba. Atualmente trabalho com Go e estudo Java paralelamente. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.</p>
 
-💬 *Sempre aberto para conexões, ideias e novos desafios.*
+#
 
----
+<img align="right" alt="Study gif" height="190px" src="./src/study.gif">
 
-## 🎮 Pac-Man GitHub Contribution Graph
+<h3 align="left">Conecte-se comigo!</h3>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joao1015/joao1015/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joao1015/joao1015/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/joao1015/joao1015/output/pacman-contribution-graph.svg">
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:meduardacardoso.121@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/mari4souza/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/mari4.souza/)
+
+<h3 align="left">Minha Stack ~</h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="25" alt="spring logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="25" alt="c logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="postgresql logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" alt="docker logo"  />
+</div>
+
+#
+
+<div style="text-align: center;" align="center">
+  <h3>* GitHub Stats *</h3>
+  <br>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mari4souza&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
+
+  <a href="https://github.com/mari4souza/github-readme-stats">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mari4souza&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
+  </a>
+</div>
+
+#
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
-
-_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
