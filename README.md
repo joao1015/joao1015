@@ -47,9 +47,10 @@ No meu GitHub, compartilho projetos de back-end, front-end e integração de dis
 #
 
 ### 🏆 Destaques Profissionais
-- 🥉 **3º Lugar NEXT FIAP 2024**: Sistema de monitoramento preditivo para trens usando IA.
+-  🥇 AutoCarePlus – 1º Lugar em Inovação NEXT FIAP 2024
+Sistema inteligente de diagnóstico e manutenção preditiva para veículos, movido por IA.
 - 🥈 **Melhores do Ano CCR 2023**: Porta de plataforma automatizada para testes ferroviários.
-- 🥈 **Melhores do Ano CCR 2024**: Reparo de sistemas CBTC.
+- 🥇 **Melhores do Ano CCR 2024**: Reparo de sistemas CBTC.
 
 #
 
